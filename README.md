@@ -9,6 +9,5 @@ To do this, I will be doing the following:
 - Training and testing a ML model on that data **(prediction.ipynb)**
 
 ## Notes
-I am using models and functions from the **SciKitLearn** library to run the ML in this project
-
+I am using models and functions from the **SciKitLearn** library to run the ML in this project.
 
